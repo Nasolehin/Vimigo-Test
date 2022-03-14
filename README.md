@@ -16,3 +16,5 @@ available endpoints:
 6. GET => Get single person - personhttp://localhost:8000/api/persons/{id}
 7. PUT => Update person - http://localhost:8000/api/persons/{id}
 8. DELETE => Delete person - http://localhost:8000/api/persons/{id}
+
+#Further notes: Requirements 5, 6 were incomplete and 7 was done partially.
